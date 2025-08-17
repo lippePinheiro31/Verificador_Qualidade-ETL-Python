@@ -1,12 +1,12 @@
-#Verificador de Qualidade de Dados
+# Verificador de Qualidade de Dados
 
-##Descrição:
+## Descrição:
 
 O projeto consiste em um pipeline em Python voltado para validação e governança de dados. Ele permite ler dados de diferentes fontes (CSV, API ou banco de dados), aplicar regras de qualidade, gerar relatórios de inconsistências e garantir que seus dados estejam confiáveis para análise ou carregamento em sistemas.
 
 Este projeto funciona como um mini framework de qualidade de dados, ideal para automatizar validações e acompanhar a saúde dos dados.
 
-##Funcionalidades:
+## Funcionalidades:
 
 Extrair: lê dados de arquivos CSV, APIs ou bancos de dados.
 
